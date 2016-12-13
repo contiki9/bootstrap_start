@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contiki9/bootstrap_start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contiki9/bootstrap_start/issues"
+  },
+  "homepage": "https://github.com/contiki9/bootstrap_start#readme"
+}
